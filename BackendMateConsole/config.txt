@@ -1,0 +1,5 @@
+﻿#config this file for connection testing
+#HOST_NAME_OR_IP	PORT
+google.com 80
+google.com 443
+google.com 999
